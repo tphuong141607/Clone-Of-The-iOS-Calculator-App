@@ -17,7 +17,7 @@ Similar to the iOS Calculator App, this program contains 5 basic mathematical op
 3. **Select** File --> Import --> Existing Projects into Workspace
 4. In the `Select root directory`, **browse** for the `YesCode-Clone-Of-The-iOS-Calculator-App`
 5. Click **open** then **finish**
-6. Then run the program
+6. Run the program
 
 ##### Note: if you see “Access restriction” error, you might want to:
 1. Click on `help`
