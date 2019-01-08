@@ -4,7 +4,7 @@ Similar to the iOS Calculator App, this program contains 5 basic mathematical op
 
 ## Example 
 
-<img src="https://github.com/tphuong141607/YesCode-Clone-Of-The-iOS-Calculator-App/blob/master/Example.png" width="50%">
+<img src="https://github.com/tphuong141607/YesCode-Clone-Of-The-iOS-Calculator-App/blob/master/Example.png" width="35%">
 
 ## How to run this program on your computer locally?
 
