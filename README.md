@@ -1,4 +1,5 @@
 # A Clone of The iOS Calculator App
+Created on 6/20/2017
 
 Similar to the iOS Calculator App, this program contains 5 basic mathematical operations including addition, subtraction, multiplication, division, and negation. The application is built using Java, JavaFX and SceneBuilder. 
 
