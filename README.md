@@ -11,10 +11,10 @@ Similar to the iOS Calculator App, this program contains 5 basic mathematical op
 
 #### Method 1: Download the [Calculator.jar](https://github.com/tphuong141607/YesCode-Clone-Of-The-iOS-Calculator-App/blob/master/Calculator.jar) and open the app directly. 
 
-#### Method 2: Using Esclipe
+#### Method 2: Using Eclipse
 1. Download the project 
-2. Download and install Esclipe [here](https://www.eclipse.org/downloads/)
-3. Open Esclipe
+2. Download and install Eclipse [here](https://www.eclipse.org/downloads/)
+3. Open Eclipse
 3. **Select** File --> Import --> Existing Projects into Workspace
 4. In the `Select root directory`, **browse** for the `YesCode-Clone-Of-The-iOS-Calculator-App`
 5. Click **open** then **finish**
